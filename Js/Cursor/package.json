@@ -1,0 +1,21 @@
+{
+  "name": "cursor",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ai-sdk/deepseek": "^3.0.2",
+    "@google/genai": "^2.10.0",
+    "child_process": "^1.0.2",
+    "dotenv": "^17.4.2",
+    "os": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "utill": "^0.1.3"
+  }
+}
